@@ -1,6 +1,11 @@
 # Kelompok-6-Kewirausahaan
 
-
+Anggota Kelompok 
+1. 4523210019 Anggun Setiawati Dewi
+2. 4524210089 Ridwan Odi Nugroho
+3. 4525210010 Alwan Fawwaz Ibrahim
+4. 4524210105 Zaidan Dziaulfawwaz
+5. 4525210003 Adystya Anandita
 
 
 
