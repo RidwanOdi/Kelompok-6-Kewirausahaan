@@ -1,4 +1,4 @@
-# LAPORAN TUGAS KEWIRAUSAHAAN - KELOMPOK 06  
+# LAPORAN TUGAS KEWIRAUSAHAAN - KELOMPOK 06 
 
 Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)**.
 
