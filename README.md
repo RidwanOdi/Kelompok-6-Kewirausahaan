@@ -39,23 +39,18 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ---
 
-## 1. PENDAHULUAN
-Kuesioner ini dilakukan untuk mengetahui kondisi usaha dan permasalahan yang dihadapi oleh pemilik usaha kantin di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila.
+# 1. PENDAHULUAN
 
-Kegiatan ini dilakukan oleh mahasiswa Program Studi Teknik Informatika, Fakultas Teknik, Universitas Pancasila. Oleh karena itu, hasil kuesioner tidak hanya digunakan untuk mengetahui kondisi usaha kantin, tetapi juga untuk mengidentifikasi permasalahan yang dapat dikembangkan menjadi solusi berbasis Teknologi Informasi.
+Kuesioner ini dilakukan untuk mengetahui kondisi usaha dan permasalahan yang dihadapi oleh pemilik usaha kantin dan usaha pendukung di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila.
 
-Berdasarkan hasil kuesioner dari beberapa pemilik usaha, sebagian besar kegiatan operasional kantin seperti penjualan, pengelolaan stok, dan penggunaan kemasan dapat berjalan dengan baik.
+Kegiatan ini dilakukan oleh mahasiswa Program Studi Teknik Informatika, Fakultas Teknik, Universitas Pancasila. Oleh karena itu, hasil kuesioner tidak hanya digunakan untuk mengetahui kondisi usaha, tetapi juga untuk mengidentifikasi permasalahan yang dapat dikembangkan menjadi solusi berbasis Teknologi Informasi.
 
-Namun, ditemukan beberapa permasalahan yang muncul pada beberapa usaha, seperti:
+Berdasarkan hasil kuesioner dari beberapa pemilik usaha, sebagian besar kegiatan operasional seperti penjualan, pengelolaan stok, dan penggunaan kemasan dapat berjalan dengan baik.
 
-Ketersediaan air keran yang tidak mencukupi.
-Debit air yang kecil.
-Air keran yang terkadang habis.
-Kenaikan harga bahan baku.
-Kenaikan harga plastik.
-Gangguan listrik pada usaha fotocopy.
+Namun, ditemukan beberapa permasalahan pada beberapa usaha, seperti ketersediaan air keran yang tidak mencukupi, debit air yang kecil, air keran yang terkadang habis, kenaikan harga bahan baku, kenaikan harga plastik, serta gangguan listrik pada usaha fotocopy.
 
 Dari berbagai permasalahan tersebut, ketersediaan dan distribusi air menjadi salah satu permasalahan yang ditemukan pada beberapa kantin dan dapat dianalisis lebih lanjut dari sudut pandang Teknik Informatika.
+
 
 ---
 
