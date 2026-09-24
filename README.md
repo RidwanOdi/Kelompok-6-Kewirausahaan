@@ -13,7 +13,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 
 ---
-## Anggota Kelompok-09
+## Anggota Kelompok-06
 
 | Nama                        | NPM        | Peran                     |
 |-----------------------------|------------|---------------------------|
