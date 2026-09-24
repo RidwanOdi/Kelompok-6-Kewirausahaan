@@ -39,7 +39,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ---
 
-# 1. PENDAHULUAN
+## 1. PENDAHULUAN
 
 Kuesioner ini dilakukan untuk mengetahui kondisi usaha dan permasalahan yang dihadapi oleh pemilik usaha kantin dan usaha pendukung di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila.
 
@@ -54,7 +54,7 @@ Dari berbagai permasalahan tersebut, ketersediaan dan distribusi air menjadi sal
 
 ---
 
-# 2. TUJUAN
+## 2. TUJUAN
 
 Kuesioner ini memiliki beberapa tujuan, yaitu:
 
@@ -87,26 +87,29 @@ Secara umum, proses penjualan pada usaha-usaha tersebut dapat berjalan dengan ba
 
 Berdasarkan jawaban pemilik usaha, permasalahan air yang ditemukan meliputi:
 
-Air keran terkadang habis.
-Debit air yang keluar kecil.
-Air tidak cukup untuk mencuci piring dan peralatan.
-Beberapa kantin menggunakan sumber air yang sama.
-Ketika beberapa kantin menggunakan air secara bersamaan, debit air dapat menjadi lebih kecil.
-Terdapat kemungkinan bahwa kapasitas pompa dan sistem distribusi belum mampu memenuhi kebutuhan seluruh kantin secara bersamaan.
+- Air keran terkadang habis.
+- Debit air yang keluar kecil.
+- Air kurang mencukupi untuk mencuci piring dan peralatan.
+- Beberapa kantin menggunakan sumber air yang sama.
+- Ketika beberapa kantin menggunakan air secara bersamaan, debit air dapat menjadi lebih kecil.
+- Terdapat kemungkinan bahwa kapasitas pompa dan sistem distribusi belum mampu memenuhi kebutuhan seluruh kantin secara bersamaan.
 
-Permasalahan tersebut cukup penting karena air digunakan untuk kegiatan operasional sehari-hari, seperti:
+Permasalahan tersebut penting karena air digunakan untuk kegiatan operasional sehari-hari, seperti:
 
-Mencuci piring.
-Mencuci peralatan memasak.
-Membersihkan area kantin.
-Menjaga kebersihan peralatan makan.
-Mendukung kegiatan operasional kantin.
+- Mencuci piring.
+- Mencuci peralatan memasak.
+- Membersihkan area kantin.
+- Menjaga kebersihan peralatan makan.
+- Mendukung kegiatan operasional kantin.
 
 Apabila debit air terlalu kecil, kegiatan mencuci dan membersihkan peralatan dapat menjadi lebih lambat dan mengganggu kegiatan operasional.
 
 ---
 
 ## 5. KEMUNGKINAN PENYEBAB PERMASALAHAN
+
+Berdasarkan hasil kuesioner, penyebab sebenarnya masih perlu diperiksa secara langsung. Namun, terdapat beberapa kemungkinan penyebab yang dapat dijadikan dasar untuk analisis lebih lanjut.
+
 ### 5.1 Kapasitas Tangki Air Tidak Mencukupi
 Salah satu kemungkinan adalah kapasitas penampungan air yang tersedia belum mencukupi kebutuhan seluruh kantin.
 
@@ -117,10 +120,13 @@ Salah satu solusi fasilitas yang dapat dipertimbangkan adalah:
 Menambahkan satu tangki air sebagai penampungan tambahan/cadangan.
 
 Dengan adanya tangki tambahan, jumlah air yang dapat disimpan menjadi lebih besar sehingga dapat membantu memenuhi kebutuhan pada saat penggunaan air meningkat.
+> **Menambahkan satu tangki air sebagai penampungan tambahan atau cadangan.**
+
 ### 5.2 Kapasitas Pompa Air
 Kemungkinan kedua adalah kapasitas pompa belum sesuai dengan jumlah kantin yang menggunakan air.
 
 Apabila banyak kantin menggunakan air secara bersamaan, tekanan dan debit air yang diterima oleh setiap kantin dapat mengalami penurunan.
+
 ### 5.3 Distribusi Air Tidak Memadai
 Kemungkinan lainnya adalah sistem distribusi air belum dapat memberikan debit yang merata kepada seluruh kantin.
 
