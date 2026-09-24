@@ -212,13 +212,13 @@ Mikrokontroler menerima data dari sensor kemudian mengirimkan data tersebut ke s
 ### 7.3 Database
 Data yang diperoleh dapat disimpan ke dalam database.
 
-Contohnya:
+Contoh data yang dapat disimpan:
 
-Volume air.
-Debit air.
-Waktu pengukuran.
-Status pompa.
-Kondisi distribusi.
+- Volume air.
+- Debit air.
+- Waktu pengukuran.
+- Status pompa.
+- Kondisi distribusi.
 
 Data tersebut kemudian dapat digunakan untuk melihat riwayat penggunaan air.
 
@@ -227,21 +227,29 @@ Data dapat ditampilkan melalui dashboard agar pengelola dapat melihat kondisi ai
 
 Contohnya:
 
-Volume Air: 65%
-Status Pompa: Aktif
-Debit Air: Normal
-Distribusi: Normal
+```text
+Volume Air      : 65%
+Status Pompa    : Aktif
+Debit Air       : Normal
+Distribusi      : Normal
+```
 
 ### 7.5 Sistem Notifikasi
 Sistem juga dapat memberikan peringatan ketika kondisi tertentu terjadi.
 
 Contohnya:
 
-PERINGATAN: Volume air tangki rendah.
+```text
+PERINGATAN:
+Volume air tangki rendah.
+```
 
 atau:
 
-PERINGATAN: Debit air mengalami penurunan.
+```text
+PERINGATAN:
+Debit air mengalami penurunan.
+```
 
 ---
 
@@ -263,9 +271,9 @@ Data yang sebaiknya dikumpulkan adalah:
 
 Setelah data tersebut diperoleh, dapat dilakukan analisis untuk mengetahui apakah masalah utama berasal dari:
 
-Tangki → Pompa → Pipa/Distribusi → atau jumlah penggunaan air secara bersamaan.
+**Tangki → Pompa → Pipa/Distribusi → atau jumlah penggunaan air secara bersamaan.**
 
-Jika kapasitas penampungan memang tidak mencukupi, maka penambahan satu tangki air dapat dipertimbangkan.
+Jika kapasitas penampungan memang tidak mencukupi, maka **penambahan satu tangki air** dapat dipertimbangkan.
 
 Jika masalah terdapat pada distribusi, maka sistem perpipaan dan tekanan air perlu diperiksa.
 
@@ -275,32 +283,36 @@ Jika masalah terdapat pada pemantauan, maka sistem monitoring berbasis IoT dapat
 
 ## 9. KESIMPULAN
 
-Berdasarkan hasil kuesioner, kegiatan operasional sebagian besar usaha kantin di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila dapat berjalan dengan baik. Namun, terdapat beberapa kendala seperti gangguan listrik, kenaikan harga bahan baku, harga plastik, serta permasalahan ketersediaan air.
+Berdasarkan hasil kuesioner, kegiatan operasional sebagian besar usaha kantin dan usaha pendukung di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila dapat berjalan dengan baik. Namun, terdapat beberapa kendala seperti gangguan listrik, kenaikan harga bahan baku, harga plastik, serta permasalahan ketersediaan air.
 
-Permasalahan air menjadi salah satu permasalahan yang ditemukan pada beberapa kantin. Permasalahan tersebut meliputi air keran yang kecil, air yang terkadang habis, serta air yang kurang mencukupi untuk mencuci piring dan peralatan kantin.
+Permasalahan air menjadi salah satu permasalahan yang ditemukan pada beberapa kantin. Permasalahan tersebut meliputi **air keran yang kecil, air yang terkadang habis, serta air yang kurang mencukupi untuk mencuci piring dan peralatan kantin**.
 
-Berdasarkan keterangan pemilik usaha, terdapat kemungkinan bahwa permasalahan tersebut berkaitan dengan kapasitas penampungan air, kemampuan pompa, atau sistem distribusi air yang belum memadai. Terdapat pula dugaan bahwa ketika lebih dari sekitar lima kantin menggunakan air secara bersamaan, debit air pada kantin lain dapat mengalami penurunan.
+Berdasarkan keterangan pemilik usaha, terdapat kemungkinan bahwa permasalahan tersebut berkaitan dengan **kapasitas penampungan air, kemampuan pompa, atau sistem distribusi air yang belum memadai**. Penggunaan air secara bersamaan oleh beberapa kantin juga dilaporkan dapat menyebabkan debit air pada kantin lain menjadi lebih kecil atau bahkan tidak keluar. Kondisi tersebut masih perlu dibuktikan melalui pengukuran langsung terhadap sistem distribusi air.
 
-Salah satu solusi fasilitas yang dapat dipertimbangkan adalah penambahan satu tangki air sebagai penampungan tambahan. Namun, sebelum menentukan solusi akhir, diperlukan pemeriksaan dan pengukuran terhadap kapasitas tangki, pompa, debit air, tekanan, serta sistem perpipaan.
+Salah satu solusi fasilitas yang dapat dipertimbangkan adalah **penambahan satu tangki air sebagai penampungan tambahan**. Namun, sebelum menentukan solusi akhir, diperlukan pemeriksaan dan pengukuran terhadap kapasitas tangki, pompa, debit air, tekanan, serta sistem perpipaan.
 
-Dari sudut pandang Teknik Informatika, permasalahan tersebut memiliki potensi untuk dikembangkan menjadi Sistem Monitoring Ketersediaan dan Distribusi Air Berbasis IoT. Sistem dapat menggunakan sensor dan mikrokontroler untuk memperoleh data mengenai volume air, status pompa, debit air, dan kondisi distribusi. Data tersebut kemudian dapat ditampilkan melalui dashboard serta digunakan untuk memberikan notifikasi apabila terjadi kondisi tertentu.
+Dari sudut pandang **Teknik Informatika**, permasalahan tersebut memiliki potensi untuk dikembangkan menjadi **Sistem Monitoring Ketersediaan dan Distribusi Air Berbasis IoT**. Sistem dapat menggunakan sensor dan mikrokontroler untuk memperoleh data mengenai volume air, status pompa, debit air, dan kondisi distribusi. Data tersebut kemudian dapat ditampilkan melalui dashboard serta digunakan untuk memberikan notifikasi apabila terjadi kondisi tertentu.
 
+Dengan demikian, hasil kuesioner dapat menjadi dasar untuk mengidentifikasi permasalahan nyata di lingkungan kampus dan merancang kemungkinan solusi berbasis Teknologi Informasi yang dapat membantu proses pemantauan kondisi air secara lebih terukur.
 
-```mermaid
-flowchart TD
-    A[Tangki Air] --> B[Sensor Volume]
-    A --> C[Sensor Debit Air]
+---
 
-    B --> D[Mikrokontroler]
-    C --> D
+# Dokumentasi Kuesioner
 
-    D --> E[Sistem Monitoring]
+## Kantin/Usaha yang Menjadi Sumber Informasi
 
-    E --> F[Dashboard]
-    E --> G[Notifikasi]
+1. Kantin Risol Sovina
+2. Warung Makan Berkah
+3. Fotocopy Mitra Buana
+4. Mie RR
+5. Dapur Selera Mamah Ria
 
-    F --> H[Volume Air]
-    F --> I[Status Pompa]
-    F --> J[Debit Air]
-    F --> K[Kondisi Distribusi]
-```
+---
+
+## Catatan
+
+Laporan ini disusun berdasarkan jawaban yang diberikan oleh pemilik usaha melalui kuesioner.
+
+Analisis mengenai kemungkinan keterbatasan kapasitas tangki, kapasitas pompa, dan distribusi air merupakan **analisis awal berdasarkan keluhan yang disampaikan oleh pemilik usaha**. Penyebab teknis sebenarnya masih memerlukan pemeriksaan dan pengukuran secara langsung.
+
+Rancangan sistem monitoring berbasis IoT yang ditampilkan dalam laporan merupakan **konsep atau rekomendasi awal**, bukan sistem yang telah diimplementasikan.
