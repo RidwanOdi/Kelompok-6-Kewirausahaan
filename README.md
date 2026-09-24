@@ -54,21 +54,18 @@ Dari berbagai permasalahan tersebut, ketersediaan dan distribusi air menjadi sal
 
 ---
 
-## 2. TUJUAN
-
-Dalam menganalisis suatu kasus etika profesi, penting untuk membedakan antara fakta yang telah dibuktikan melalui investigasi resmi dengan informasi yang masih berupa dugaan atau sedang diproses secara hukum.
+# 2. TUJUAN
 
 Kuesioner ini memiliki beberapa tujuan, yaitu:
 
-1. Mengetahui jenis usaha dan produk yang dijual oleh pemilik kantin.
+1. Mengetahui jenis usaha dan produk yang dijual oleh pemilik usaha.
 2. Mengetahui pelanggan utama dari masing-masing usaha.
 3. Mengetahui proses penjualan dan pelayanan kepada pelanggan.
 4. Mengetahui cara pemilik usaha mengelola stok barang dan bahan baku.
 5. Mengidentifikasi kendala yang terjadi dalam kegiatan operasional.
-6. Mengidentifikasi permasalahan fasilitas yang digunakan oleh kantin.
+6. Mengidentifikasi permasalahan fasilitas yang digunakan oleh usaha.
 7. Menganalisis permasalahan yang dapat dikembangkan menjadi kebutuhan sistem berbasis Teknologi Informasi.
 8. Memberikan rekomendasi awal berupa kemungkinan solusi teknologi terhadap permasalahan yang ditemukan.
----
 
 ## 3. PEMETAAN PEMANGKU KEPENTINGAN
 
