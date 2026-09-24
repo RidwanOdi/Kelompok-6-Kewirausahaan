@@ -154,6 +154,46 @@ Peringatan ketika volume air rendah.
 
 Dengan adanya sistem monitoring, kondisi air tidak hanya diketahui berdasarkan perkiraan atau pemeriksaan manual, tetapi dapat dipantau berdasarkan data dari sensor.
 
+### 6.1 Rancangan Awal Sistem
+
+Berikut merupakan gambaran konsep awal sistem monitoring:
+
+```mermaid
+flowchart TD
+    A[Tangki Air] --> B[Sensor Volume]
+    A --> C[Sensor Debit Air]
+
+    B --> D[Mikrokontroler]
+    C --> D
+
+    D --> E[Sistem Monitoring]
+
+    E --> F[Dashboard]
+    E --> G[Notifikasi]
+
+    F --> H[Volume Air]
+    F --> I[Status Pompa]
+    F --> J[Debit Air]
+    F --> K[Kondisi Distribusi]
+```
+
+### Informasi yang Dapat Dipantau
+
+**Dashboard:**
+
+- Volume air
+- Status pompa
+- Debit air
+- Kondisi distribusi
+
+**Notifikasi:**
+
+- Volume air rendah
+- Debit air mengalami penurunan
+- Kondisi distribusi mengalami gangguan
+
+> Diagram di atas merupakan **rancangan konsep awal**, bukan sistem yang sudah diimplementasikan.
+
 ---
 
 ## 7. HUBUNGAN DENGAN TEKNIK INFORMATIKA
