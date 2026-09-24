@@ -75,7 +75,7 @@ Kasus Boeing 737 MAX melibatkan berbagai pihak dengan kepentingan, peran, dampak
 |---|------------------------------------------|------------|---------------------------|------------|
 |1. | Kantin Risol Sovina             | ± 2 tahun | Mahasiswa | Kekurangan air keran untuk mencuci piring dan keperluan lainnya.|
 |2. | Warung Makan Berkah             | ± 5 tahun | Mahasiswa dosen, dan karyawan | Air keran kurang/debit air kecil.| 
-|3. | Fotocopy Mitra Buana            | Sejak Tahun 2009 (± 17 tahun) | Mahasiswa dan dosen | Listrik dapat mati hingga beberapa jam.|
+|3. | Fotocopy Mitra Buana            | ± 17 tahun (Sejak Tahun 2009) | Mahasiswa dan dosen | Listrik dapat mati hingga beberapa jam.|
 |4. | Mie RR                          | ± 2 tahun | Mahasiswa | Air keran sering habis dan distribusi air tidak merata.|
 |5. | Dapur Selera Mamah Ria          | ± 6 bulan | Mahasiswa, dosen, dan karyawan | Air keran kecil dan kenaikan harga bahan baku.|
 
