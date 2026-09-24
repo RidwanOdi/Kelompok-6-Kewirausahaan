@@ -17,11 +17,11 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 | Nama                        | NPM        | Peran                     |
 |-----------------------------|------------|---------------------------|
-| Anggun Setiawati Dewi       | 4523210019 |                           |
-| Ridwan Odi Nugroho          | 4524210089 |                           |
-| Zaidan Dziaulfawwaz         | 4524210105 |                           |
-| Adystya Anandita            | 4525210003 |                           |
-| Alwan Fawwaz Ibrahim        | 4525210010 |                           |
+| Anggun Setiawati Dewi       | 4523210019 | Membuat PPT dan Bantu Menyemangati |
+| Ridwan Odi Nugroho          | 4524210089 | Wawancara kantin dengan menggunakan kuisioner secara tatap muka, membuat seluruh github ini, membuat pertanyaan untuk di masukan ke Kuisioner |
+| Zaidan Dziaulfawwaz         | 4524210105 | Membuat PPT dan Bantu Menyemangati |
+| Adystya Anandita            | 4525210003 | Membuat PPT https://docs.google.com/presentation/d/1VXO7XrQDsNq_OlvRNojLwIm9PXsBsyjqqiIOMSqK-w0/edit?usp=sharing |
+| Alwan Fawwaz Ibrahim        | 4525210010 | Membuatkan Gform Kuisioner dan Memilih pertanyaan yang akan dimasukan di Gform. |
 
 ---
 ## Pemetaan Sub-CPMK
