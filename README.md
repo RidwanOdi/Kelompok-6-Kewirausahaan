@@ -33,8 +33,8 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 | **Sub-CPMK 3** | Identifikasi permasalahan yang dihadapi pemilik usaha, khususnya ketersediaan dan distribusi air. |
 | **Sub-CPMK 4** | Analisis kebutuhan berdasarkan permasalahan yang ditemukan. |
 | **Sub-CPMK 5** | Perumusan kemungkinan solusi berbasis Teknologi Informasi. |
-| **Sub-CPMK 6** | Rekomendasi pengembangan sistem monitoring menggunakan sensor, database, dan dashboard. |
-| **Sub-CPMK 7** | Hubungan Permasalahan Usaha dengan Penerapan Teknologi Informasi dalam Bidang Teknik Informatika |
+| **Sub-CPMK 6** | Rancangan awal sistem monitoring ketersediaan dan distribusi air menggunakan sensor, mikrokontroler, dan sistem monitoring. |
+| **Sub-CPMK 7** | Hubungan permasalahan usaha dengan penerapan Teknologi Informasi dalam bidang Teknik Informatika. |
 | **Sub-CPMK 8** | Dokumentasi dan penyajian hasil kuesioner melalui laporan dan GitHub. |
 | **Sub-CPMK 9** | Refleksi peran mahasiswa Teknik Informatika dalam mengidentifikasi masalah nyata dan merancang solusi teknologi. |
 
