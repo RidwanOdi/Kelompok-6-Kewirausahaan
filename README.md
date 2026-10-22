@@ -317,7 +317,9 @@ Dokumentasi ini berisi lima pertanyaan beserta jawaban dari pemilik usaha di lin
 ### Pertanyaan 1
 **Bisa diceritakan sedikit tentang usaha kantin yang Bapak/Ibu jalankan? Produk apa yang dijual, sudah berapa lama usaha berjalan, dan siapa pelanggan utamanya?**
 
-**Jawaban:** Anak-anak mahasiswa.
+**Jawaban:** 
+- **Lama usaha:** Sekitar 2 tahun.
+- **Pelanggan:** Anak-anak mahasiswa
 
 ### Pertanyaan 2
 **Selama menjalankan usaha kantin ini, kendala apa yang paling sering Bapak/Ibu alami?**
