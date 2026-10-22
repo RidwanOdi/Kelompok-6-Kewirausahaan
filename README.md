@@ -339,6 +339,9 @@ Dokumentasi ini berisi lima pertanyaan beserta jawaban dari pemilik usaha di lin
 
 **Jawaban:** Tidak ada kendala terkait kemasan produk.
 
+![Uploading image.png…]()
+
+
 ---
 
 ## 2. Warung Makan Berkah
