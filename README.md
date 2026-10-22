@@ -302,11 +302,180 @@ Dengan demikian, hasil kuesioner dapat menjadi dasar untuk mengidentifikasi perm
 
 ## Kantin/Usaha yang Menjadi Sumber Informasi
 
+Dokumentasi ini berisi lima pertanyaan beserta jawaban dari pemilik usaha di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila. Data dikumpulkan untuk mengidentifikasi kondisi operasional usaha dan permasalahan yang dapat dianalisis sebagai dasar pengembangan solusi Teknologi Informasi.
+
 1. Kantin Risol Sovina
 2. Warung Makan Berkah
 3. Fotocopy Mitra Buana
 4. Mie RR
 5. Dapur Selera Mamah Ria
+
+---
+
+## 1. Kantin Risol Sovina
+
+### Pertanyaan 1
+**Bisa diceritakan sedikit tentang usaha kantin yang Bapak/Ibu jalankan? Produk apa yang dijual, sudah berapa lama usaha berjalan, dan siapa pelanggan utamanya?**
+
+**Jawaban:** Anak-anak mahasiswa.
+
+### Pertanyaan 2
+**Selama menjalankan usaha kantin ini, kendala apa yang paling sering Bapak/Ibu alami?**
+
+**Jawaban:** Kekurangan air keran untuk mencuci piring dan keperluan lainnya.
+
+### Pertanyaan 3
+**Bagaimana proses penjualan biasanya dilakukan, dari pelanggan memesan sampai produk diterima? Apakah pernah mengalami kendala dalam proses tersebut?**
+
+**Jawaban:** Proses penjualan berjalan lancar dan tidak ada kendala.
+
+### Pertanyaan 4
+**Bagaimana Bapak/Ibu mencatat dan memantau stok bahan baku atau produk? Apakah pernah mengalami stok habis, terlalu banyak, rusak, atau kedaluwarsa?**
+
+**Jawaban:** Stok tidak pernah habis dan produk tidak pernah kedaluwarsa karena semuanya masih baru.
+
+### Pertanyaan 5
+**Bagaimana dengan kemasan produk? Apakah pernah ada kendala terkait desain, biaya, keamanan, penyimpanan, atau pengiriman?**
+
+**Jawaban:** Tidak ada kendala terkait kemasan produk.
+
+---
+
+## 2. Warung Makan Berkah
+
+### Pertanyaan 1
+**Bisa diceritakan sedikit tentang usaha yang Bapak/Ibu jalankan? Produk apa yang dijual, sudah berapa lama usaha berjalan, dan siapa pelanggan utamanya?**
+
+**Jawaban:**
+- **Produk:** Minuman botol, minuman saset, tisu, Pop Mie, makanan ringan, rokok, Teh Jumbo, berbagai jenis jus, es krim, soto Betawi, ayam goreng, ayam bakar, dan soto ayam.
+- **Lama usaha:** Sekitar 5 tahun.
+- **Pelanggan:** Mahasiswa Fakultas Ekonomi, Hukum, Teknik, Farmasi, Pariwisata, dan Perkeretaapian, serta dosen dan karyawan.
+
+### Pertanyaan 2
+**Selama menjalankan usaha ini, kendala apa yang paling sering Bapak/Ibu alami?**
+
+**Jawaban:** Kekurangan air keran atau debit air yang kecil. Tidak ada kendala terkait pencurian barang karena pelanggan yang mengambil barang tetapi belum membayar biasanya kembali untuk melakukan pembayaran.
+
+### Pertanyaan 3
+**Bagaimana proses penjualan biasanya dilakukan, dari pelanggan memesan sampai produk diterima? Apakah pernah mengalami kendala dalam proses tersebut?**
+
+**Jawaban:** Penjualan dilakukan melalui pemesanan online, pembelian langsung, makan di tempat, dibungkus, dan pengantaran ke lokasi.
+
+### Pertanyaan 4
+**Bagaimana pengelolaan stok bahan baku atau produk? Apakah pernah mengalami stok habis, terlalu banyak, rusak, atau kedaluwarsa?**
+
+**Jawaban:** Barang yang rusak diganti oleh pemasok. Tidak ada kendala berarti dalam pengelolaan stok karena usaha dijalankan sendiri tanpa karyawan.
+
+### Pertanyaan 5
+**Bagaimana dengan kemasan produk? Apakah pernah ada kendala terkait desain, biaya, keamanan, penyimpanan, atau pengiriman?**
+
+**Jawaban:** Tidak ada pengiriman barang. Kendala yang pernah dirasakan berkaitan dengan harga plastik, tetapi harga plastik mulai turun. Jika plastik rusak, plastik tersebut dapat ditukar.
+
+---
+
+## 3. Fotocopy Mitra Buana
+
+### Pertanyaan 1
+**Bisa diceritakan sedikit tentang usaha yang dijalankan, produk atau jasa yang ditawarkan, lama usaha, dan pelanggan utamanya?**
+
+**Jawaban:**
+- **Usaha:** Jasa fotokopi dan alat tulis kantor, termasuk penjilidan dokumen hingga skripsi.
+- **Lama usaha:** Sejak tahun 2009.
+- **Pelanggan:** Dosen serta mahasiswa Fakultas Ekonomi dan Bisnis dan jurusan lainnya.
+
+### Pertanyaan 2
+**Selama menjalankan usaha ini, kendala apa yang paling sering dialami?**
+
+**Jawaban:** Listrik sering mati dan dapat berlangsung hingga 4 jam dalam satu hari kerja. Selain itu, kegiatan perkuliahan secara daring atau WFH dapat mengurangi aktivitas usaha, sedangkan biaya sewa tempat tetap dibayar penuh tanpa diskon atau kompensasi.
+
+### Pertanyaan 3
+**Bagaimana proses pelayanan dilakukan? Apakah pernah mengalami kendala?**
+
+**Jawaban:** Tidak ada kendala besar. Jika terdapat kesalahan pada file, pemilik usaha memeriksa dan mendiskusikannya dengan pelanggan. Pemilik juga membantu memperbaiki isi dan format dokumen. Kendala keamanan yang pernah terjadi adalah kehilangan alat tulis atau minuman.
+
+### Pertanyaan 4
+**Bagaimana pengelolaan stok bahan baku atau produk?**
+
+**Jawaban:** Jika stok habis, barang dapat diisi kembali dalam waktu sekitar setengah jam hingga satu jam. Jumlah pembelian disesuaikan dengan kebutuhan usaha.
+
+### Pertanyaan 5
+**Apakah pernah ada kendala terkait kemasan, keamanan, penyimpanan, atau pengiriman?**
+
+**Jawaban:** Tidak ada masalah besar terkait keamanan.
+
+---
+
+## 4. Mie RR
+
+### Pertanyaan 1
+**Bisa diceritakan tentang usaha kantin, produk yang dijual, lama usaha, dan pelanggan utamanya?**
+
+**Jawaban:**
+- **Produk:** Mi seperti mi Gacoan, ayam crispy, bakso, dan minuman teh.
+- **Lama usaha:** Sekitar 2 tahun.
+- **Pelanggan utama:** Mahasiswa.
+
+### Pertanyaan 2
+**Selama menjalankan usaha, kendala apa yang paling sering dialami?**
+
+**Jawaban:** Air keran sering habis dan debit air tidak merata dengan kantin lain di area yang sama. Pompa air dinilai belum cukup kuat untuk menyediakan air bagi seluruh kantin secara bersamaan. Akibatnya, sebagian kantin hanya memperoleh sedikit air atau bahkan tidak mendapatkan air.
+
+### Pertanyaan 3
+**Bagaimana proses penjualan dilakukan? Apakah pernah mengalami kendala?**
+
+**Jawaban:** Terdapat keluhan dari pelanggan agar makanan dibuat lebih cepat.
+
+### Pertanyaan 4
+**Bagaimana pengelolaan stok bahan baku atau produk?**
+
+**Jawaban:** Stok yang habis dicatat setelah kegiatan penjualan selesai.
+
+### Pertanyaan 5
+**Apakah pernah ada kendala terkait kemasan produk?**
+
+**Jawaban:** Tidak ada kendala terkait kemasan produk.
+
+---
+
+## 5. Dapur Selera Mamah Ria
+
+### Pertanyaan 1
+**Bisa diceritakan tentang usaha kantin, produk yang dijual, lama usaha, dan pelanggan utamanya?**
+
+**Jawaban:**
+- **Produk:** Nasi rames, lauk-pauk, makanan ringan, Indomie, minuman instan, kue, gorengan, dan roti.
+- **Lama usaha:** Sekitar 6 bulan.
+- **Pelanggan utama:** Mahasiswa, dosen, dan karyawan.
+
+### Pertanyaan 2
+**Selama menjalankan usaha, kendala apa yang paling sering dialami?**
+
+**Jawaban:** Debit air keran kecil dan terdapat kenaikan harga bahan baku. Harga beras, cabai, plastik, serta bahan bakar juga memengaruhi biaya operasional usaha.
+
+### Pertanyaan 3
+**Bagaimana proses penjualan dilakukan? Apakah pernah mengalami kendala?**
+
+**Jawaban:** Tidak terdapat masalah besar dalam proses penjualan. Namun, pemilik usaha terkadang lupa siapa yang memesan atau lupa pesanan nasi yang diminta pelanggan.
+
+### Pertanyaan 4
+**Bagaimana pengelolaan stok bahan baku atau produk?**
+
+**Jawaban:** Produk jarang kedaluwarsa. Jika stok habis, barang dapat dibeli kembali langsung dari agen. Makanan ringan juga berisiko menjadi rapuh atau hancur apabila dipegang terlalu keras oleh pelanggan.
+
+### Pertanyaan 5
+**Apakah pernah ada kendala terkait kemasan, biaya, keamanan, penyimpanan, atau pengiriman?**
+
+**Jawaban:** Tidak ada kendala besar terkait kemasan, penyimpanan, maupun pengiriman. Namun, kenaikan harga kertas nasi dan bahan bakar dapat memengaruhi biaya usaha.
+
+---
+
+## Kesimpulan Dokumentasi
+
+Berdasarkan hasil kuesioner dari lima usaha, ditemukan beberapa permasalahan operasional, seperti kekurangan air keran, debit air yang kecil, gangguan listrik, kenaikan harga bahan baku, dan kendala pencatatan pesanan.
+
+Permasalahan ketersediaan dan distribusi air ditemukan pada beberapa kantin dan dapat menjadi dasar untuk menganalisis kemungkinan pengembangan sistem monitoring air berbasis Teknologi Informasi.
+
+Dokumentasi ini disusun berdasarkan jawaban responden pada kuesioner dan digunakan sebagai pendukung laporan tugas Kewirausahaan (B).
 
 ---
 
